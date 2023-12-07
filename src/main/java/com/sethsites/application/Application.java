@@ -1,4 +1,4 @@
-package org.vaadin.example;
+package com.sethsites.application;
 
 import com.vaadin.flow.component.page.AppShellConfigurator;
 import com.vaadin.flow.theme.Theme;

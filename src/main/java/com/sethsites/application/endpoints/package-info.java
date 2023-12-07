@@ -1,4 +1,4 @@
 @NonNullApi
-package org.vaadin.example.endpoints;
+package com.sethsites.application.endpoints;
 
 import org.springframework.lang.NonNullApi;

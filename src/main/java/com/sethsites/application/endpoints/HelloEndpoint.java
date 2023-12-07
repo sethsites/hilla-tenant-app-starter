@@ -1,4 +1,4 @@
-package org.vaadin.example.endpoints;
+package com.sethsites.application.endpoints;
 
 import com.vaadin.flow.server.auth.AnonymousAllowed;
 import dev.hilla.Endpoint;
